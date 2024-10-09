@@ -15,3 +15,7 @@ but continental-scale measurements have not previously been made.
 
 A large uncertainty in modelling BBOA is the extent to wich 
 measurements made in the literature can be applied at a regional scale.
+
+# Simulations
+We simulate the evolution of particles sizes as they are transported 
+away from the source region.
