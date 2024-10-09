@@ -1,5 +1,5 @@
 # Title
-Aging of biomass aerosols over West Africa
+Aircraft measurements of biomass aerosols over West Africa
 
 # Author
 Gerard Capes
